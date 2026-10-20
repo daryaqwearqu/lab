@@ -1,0 +1,12 @@
+*.class
+*.exe
+*.log
+logs/.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+
+*.tmp
+*.bak
+.vscode/
